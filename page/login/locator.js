@@ -4,4 +4,5 @@ module.exports = {
         passwordField: "//input[@formcontrolname = 'password']",
         loginButton: "//button[@type='submit']",
         logoDiv: "//div[contains(@class,'div-portfolio ')]",
-};
+      };
+      
